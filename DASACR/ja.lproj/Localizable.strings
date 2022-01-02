@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DASACR
+
+  Created by Matsui Keiji on 2019/06/26.
+  Copyright © 2019 Matsui Keiji. All rights reserved.
+*/
+"note" = "注釈入力";
+"annotations" = "注釈（メモ、名前等）が入力できます\n（日付と点数は自動的に入力されます）";
+"done" = "入力完了";
+"cancel" = "キャンセル";
+"Saved" = "保存済み";
+"savedone" = "完了";
+"saveedit" = "編集";

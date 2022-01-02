@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DASACR
+
+  Created by Matsui Keiji on 2019/06/26.
+  Copyright © 2019 Matsui Keiji. All rights reserved.
+*/
+"note" = "note";
+"annotations" = "You can add annotations.\n(Date and value are entered automatically.)";
+"done" = "done";
+"cancel" = "cancel";
+"Saved" = "Saved";
+"savedone" = "done";
+"saveedit" = "edit";
